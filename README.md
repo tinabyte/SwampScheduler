@@ -14,7 +14,7 @@ Made with :heart: by [UF's Open Source Club](https://ufosc.org) ([@ufosc](https:
 - [Maintainers](#Maintainers)
 - [License](#License)
 
-## Features
+## Features 
 
 - **Course Explorer:** Explore courses offered at the University of Florida
     - Find courses by *course code*, *title*, or *instructor*
